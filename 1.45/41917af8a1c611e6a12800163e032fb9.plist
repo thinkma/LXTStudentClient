@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://cdn.edumx.com/ios/a4fdfb5ed70c11e6867000163e106fb7.ipa</string>
+                    <string>http://cdn.edumx.com/ios/41917af8a1c611e6a12800163e032fb9.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -39,7 +39,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>爱上微口语</string>
+                <string>ai-talk爱口语</string>
             </dict>
         </dict>
     </array>
