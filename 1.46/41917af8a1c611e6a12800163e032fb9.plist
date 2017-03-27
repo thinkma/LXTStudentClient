@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://weiyuyan.oss-cn-beijing.aliyuncs.com/Icon-iPhone-57%402x.png</string>
+                    <string>http://cdn.edumx.com/Icon-iPhone-57%402x.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://weiyuyan.oss-cn-beijing.aliyuncs.com/Icon-iPhone-57%402x.png</string>
+                    <string>http://cdn.edumx.com/Icon-iPhone-57%402x.png</string>
                 </dict>
             </array>
             <key>metadata</key>
