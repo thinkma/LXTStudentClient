@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://cdn.edumx.com/ios/v1.50/1d7a9558c1a811e69c6300163e2e7f72.ipa</string>
+                    <string>http://cdn.edumx.com/ios/v2.0/41917af8a1c611e6a12800163e032fb9.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -35,11 +35,11 @@
                 <key>bundle-identifier</key>
                 <string>org.lexuetong.LXTStudent</string>
                 <key>bundle-version</key>
-                <string>1.50</string>
+                <string>2.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>乐学习在线</string>
+                <string>ai-talk爱口语</string>
             </dict>
         </dict>
     </array>
