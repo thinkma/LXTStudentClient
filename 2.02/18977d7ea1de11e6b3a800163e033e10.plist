@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://cdn.edumx.com/ios/v2.0/9f7d7ccc41ec11e788fd00163e2eb842.ipa</string>
+                    <string>http://cdn.edumx.com/ios/v2.02/18977d7ea1de11e6b3a800163e033e10.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -35,11 +35,11 @@
                 <key>bundle-identifier</key>
                 <string>org.lexuetong.LXTStudent</string>
                 <key>bundle-version</key>
-                <string>2.0/string>
+                <string>2.02</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>勾股科技</string>
+                <string>一家人</string>
             </dict>
         </dict>
     </array>
